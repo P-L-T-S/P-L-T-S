@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou Pedro Leonardo Teixeira
 
-- 🔥 Trabalho como **Desenvolvedor Front-End** e tenho 2 anos de experiência.
-- 💻 Trabalho com JavaScript, **TypeScript**, **ReactJS**, Angular, **Styled-Components**, Sass.
-- 💭 Estou me capacitando em Jest, React-Testing-Library, Redux, Next.
-- 👀 Busco por oportunidades como **Front-End ( Junior ou Pleno ) em ReactJS**, onde eu possa desenvolver minhas habilidades técnicas e pessoais.
+- 🔥 Trabalho como Desenvolvedor Front-End e tenho 2 anos de experiência.
 
+- 💻 Trabalho com JavaScript, TypeScript, ReactJS, Angular, Styled-Components, Sass.
+
+- 💭 Estou me capacitando em React Native, Jest, React-Testing-Library, Redux, Next.
+
+- 👀 Busco por oportunidades como Front-End ( Junior ou Pleno ) em ReactJS, onde eu possa desenvolver minhas habilidades técnicas e pessoais. Se tiver oportunidade de colocar em prática o que venho estudando será ainda melhor !
 
 ## Quer me conhecer? Entre em contato !!!
 
